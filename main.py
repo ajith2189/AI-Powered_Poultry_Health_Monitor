@@ -15,7 +15,7 @@ except Exception as e:
         logger.exception(e)
         raise e
 
-#prepaeing the model
+#prepaeing the  model
 
 
 STAGE_NAME = "Prepare base model"
